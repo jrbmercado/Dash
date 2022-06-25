@@ -2,9 +2,17 @@
 A faster way to collect bridge tolls.
 
 ## Purpose
-Developed for Software Engineering Group Project.
+Developed for Software Engineering Group Project to demonstrate the following concepts:
+- Object Oriented Programming
+- Inheritance and Design Structures
+- Simulated Database Queries
+- Project Design Documents and UML Diagrams
+- Brainstorming Project ideas and deliverables in a group
 
 ## Installation Instructions
+- Download Zip
+- Run Interface.java
+- Follow command line prompts
 
 ## Tools Used
 1. Java
