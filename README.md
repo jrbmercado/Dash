@@ -1,5 +1,5 @@
 # Dash
-A faster way to collect bridge tolls.
+An electronic management system for users to pay bridge tolls in the Bay Area.
 
 ## Purpose
 Developed for Software Engineering Group Project to demonstrate the following concepts:
