@@ -1,5 +1,5 @@
 # Dash
-An electronic management system for users to pay bridge tolls in the Bay Area.
+A simulation of an electronic management system for users to pay bridge tolls online.
 
 ## Purpose
 Developed for Software Engineering Group Project to demonstrate the following concepts:
